@@ -1,0 +1,4 @@
+Sign Up on site
+For account activativation you need to click this link:
+{{ site }}/accounts/activate/{{ activation_key }}/
+Thank you!
